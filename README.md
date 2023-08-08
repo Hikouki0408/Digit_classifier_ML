@@ -6,8 +6,7 @@ This report focuses on the research question of "How can a model be trained
 to accurately classify handwritten digits
 with high accuracy?". In order to answer
 this question, this report goes into details
-about the usage of data analysis for pre-
-processing data evaluation, as well as several techniques for data preprocessing
+about the usage of data analysis for pre-processing data evaluation, as well as several techniques for data preprocessing
 and model construction. Data analysis
 showed some unbalanced data entries for
 different features, which is corrected by
