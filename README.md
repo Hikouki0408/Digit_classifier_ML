@@ -5,7 +5,7 @@ Repository for a Machine Learning project
 This report focuses on the research question of "How can a model be trained
 to accurately classify handwritten digits
 with high accuracy?". In order to answer
-this question, this report goes into details
+this question, this report goes into detail
 about the usage of data analysis for pre-processing data evaluation, as well as several techniques for data preprocessing
 and model construction. Data analysis
 showed some unbalanced data entries for
@@ -14,9 +14,9 @@ undersampling the data to have a more
 balanced data set going into the machine
 learning model. In this paper, we present
 the model with the most accurate results,
-which was selected from a range of models. Additionaly, this paper outlines the
-intricacies of Hyperband search that was
-used to find the most optimal hyperparameters. In order to demonstrate the effi cacy of the model, we describe the findings of a performed evaluation based on
+which was selected from a range of models. Additionally, this paper outlines the
+intricacies of the Hyperband search that was
+used to find the most optimal hyperparameters. In order to demonstrate the efficacy of the model, we describe the findings of a performed evaluation based on
 a number of metrics as well as providing a comparative analysis between it and
 the baseline model. Through this comparison, it was possible to highlight the
 improvements of the model in terms of
@@ -45,11 +45,11 @@ To get the best hyperparameters, we set the following conditions:
 4. learning rate (default 0.001)
 
 we have found the most suitable
-set of hyperparameters values (see figure below). These values have been used in the
+set of hyperparameter values (see figure below). These values have been used in the
 improved version of our model. Further
 comparisons to the baseline model will
 be made taking these optimal values into
-the account.
+account.
 
   <img src="docs/plots/optimal hyperparameter.png" alt="" width="600" height="300">
 
